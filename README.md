@@ -10,6 +10,7 @@
 - 🔗 Compatible with CloudLink / TurboWarp
 - 👥 Supports multiple clients
 - 🟢 Lightweight Node.js server
+- my public server: wss://cloudlinkv4.duckdns.org:8765, wss://clpv4.duckdns.org:8000, wss://clv4.duckdns.org:9000
 
 ---
 
